@@ -1,6 +1,6 @@
 # CS-405
 
-As I approach the end of this course, I can't help but reflect on the wealth of knowledge and insights gained in the realm of secure coding, risk assessment, the concept of Zero Trust, and the significance of implementing robust security policies. These topics have deepened my understanding and instilled a profound appreciation for the critical role security plays in our increasingly interconnected digital world.
+As I reach the end of this course, I can't help but reflect on the wealth of knowledge and insights gained in the realm of secure coding, risk assessment, the concept of Zero Trust, and the significance of implementing robust security policies. These topics have deepened my understanding and instilled a profound appreciation for the critical role security plays in our increasingly interconnected digital world.
 
 <strong>Adoption of a Secure Coding Standard:</strong>
 
